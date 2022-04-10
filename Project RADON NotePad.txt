@@ -1,0 +1,283 @@
+KC-10
+70th Air Refueling Squadron, Travis Air Force Base, California
+76th Air Refueling Squadron, Joint Base McGuire-Dix-Lakehurst, New Jersey
+78th Air Refueling Squadron, Joint Base McGuire-Dix-Lakehurst, New Jersey
+79th Air Refueling Squadron, Travis Air Force Base, California
+
+KC-46
+18th Air Refueling Squadron, McConnell Air Force Base, Kansas 
+905th Air Refueling Squadron, McConnell AFB, Kansas
+924th Air Refueling Squadron, McConnell AFB, Kansas
+
+
+KC-135
+18th Air Refueling Squadron, McConnell AFB, Kansas
+63rd Air Refueling Squadron, MacDill Air Force Base, Florida
+72nd Air Refueling Squadron, Grissom Air Reserve Base, Indiana
+74th Air Refueling Squadron, Grissom Air Reserve Base, Indiana
+77th Air Refueling Squadron, Seymour Johnson AFB, North Carolina
+314th Air Refueling Squadron, Beale Air Force Base, California
+328th Air Refueling Squadron, Niagara Falls Air Reserve Station, NY
+336th Air Refueling Squadron, March Air Reserve Base, California
+465th Air Refueling Squadron, Tinker Air Force Base, Oklahoma
+756 Air Refueling Squadron, Joint Base Andrews, Maryland
+
+F-22
+301st Fighter Squadron, Tyndall Air Force Base, Florida
+302nd Fighter Squadron, Joint Base Elmendorf-Richardson, Alaska
+
+E-3
+970th Airborne Air Control Squadron, Tinker AFB, Oklahoma
+
+A-10
+47th Fighter Squadron, Davis-Monthan Air Force Base, Arizona
+76th Fighter Squadron, Moody Air Force Base, Georgia
+303rd Fighter Squadron, Whiteman Air Force Base, Missouri
+
+B-1
+345th Bomb Squadron, Dyess Air Force Base, Texas
+
+B-52
+93rd Bomb Squadron, Barksdale Air Force Base, Louisiana
+343rd Bomb Squadron, Barksdale Air Force Base, Louisiana
+
+F-15
+307th Fighter Squadron, Seymour Johnson AFB, North Carolina
+
+F-16
+69th Fighter Squadron, Luke Air Force Base, Arizona
+93rd Fighter Squadron, Homestead Air Reserve Base, Florida
+457th Fighter Squadron, Joint Reserve Base Fort Worth, Texas
+706th Fighter Squadron, Nellis Air Force Base, Nevada
+
+F-35
+69th Fighter Squadron, Luke Air Force Base, Arizona
+466th Fighter Squadron, Hill Air Force Base, Utah
+
+MQ-9
+2nd Special Operations Squadron, Hurlburt Field, Florida
+78th Attack Squadron, Creech Air Force Base, Nevada
+91st Attack Squadron, Creech Air Force Base, Nevada
+429th Attack Squadron, Holloman Air Force Base, New Mexico
+
+RQ-4
+13th Reconnaissance Squadron, Beale Air Force Base, California
+
+HC-130N/P
+39th Rescue Squadron, Patrick Air Force Base, Florida
+
+HH-60
+301st Rescue Squadron, Patrick Air Force Base, Florida
+305th Rescue Squadron, Davis-Monthan Air Force Base, Arizona
+
+C-5
+68th Airlift Squadron, Joint Base San Antonio, Texas 10
+312th Airlift Squadron, Travis Air Force Base, California
+337th Airlift Squadron, Westover Air Reserve Base, Massachusetts
+356th Airlift Squadron, Joint Base San Antonio-Lackland, Texas
+709th Airlift Squadron, Dover Air Force Base, Delaware
+
+C-40
+73rd Airlift Squadron, Scott AFB, Illinois
+
+C-130H/J
+96th Airlift Squadron, Minneapolis-St Paul Air Reserve Station, Minnesota
+327th Airlift Squadron, Little Rock Air Force Base, Arkansas
+357th Airlift Squadron, Maxwell Air Force Base, Alabama
+700th Airlift Squadron, Dobbins Air Reserve Base, Georgia
+731st Airlift Squadron, Peterson Air Force Base, Colorado
+757th Airlift Squadron, Youngstown-Warren Air Reserve Station, Ohio
+815th Airlift Squadron, Keesler Air Force Base, Mississippi
+
+
+C-17
+89th Airlift Squadron, Wright-Patterson Air Force Base, OH
+97th Airlift Squadron, Joint Base Lewis-McChord, WA
+300th Airlift Squadron, Joint Base Charleston, SC
+301st Airlift Squadron, Travis Air Force Base, CA
+313th Airlift Squadron, Joint Base Lewis-McChord, WA
+317th Airlift Squadron, Joint Base Charleston, SC
+326th Airlift Squadron, Dover Air Force Base, DE
+701st Airlift Squadron, Joint Base Charleston, SC
+728th Airlift Squadron, Joint Base Lewis-McChord, WA
+729th Airlift Squadron, March Air Reserve Base, CA
+732nd Airlift Squadron, Joint Base McGuire-Dix-Lakehurst, NJ
+758th Airlift Squadron, Pittsburgh Air Reserve Station, PA
+
+AC-130
+5th Special Operations Squadron, Hurlburt Field, FL
+
+AC-208
+711th Special Operations Squadron, Duke Field, FL
+
+C-145
+711th Special Operations Squadron, Duke Field, FL
+
+C-146
+859th Special Operations Squadron, Duke Field, FL
+
+MC-130
+5th Special Operations Squadron, Hurlburt Field, FL
+
+U-28
+5th Special Operations Squadron, Hurlburt Field, FL
+
+WC-130
+53rd Weather Reconnaissance Squadron, Keesler Air Force Base, MI
+
+
+
+
+
+
+
+
+
+4th Air Force, March Air Reserve Base, California
+315th Airlift Wing, Joint Base Charleston, South Carolina
+349th Air Mobility Wing, Travis AFB, California
+433rd Airlift Wing, Joint Base San Antonio-Lackland, Texas
+439th Airlift Wing, Westover ARB, Massachusetts
+434th Air Refueling Wing, Grissom ARB, Indiana
+445th Airlift Wing, Wright-Patterson AFB, Ohio
+446th Airlift Wing, JB Lewis-McChord, Washington
+452nd Air Mobility Wing, March ARB, California
+459th Air Refueling Wing, JB Andrews, Maryland
+507th Air Refueling Wing, TInker AFB, Oklahoma
+512th Airlift Wing, Dover AFB, Delaware
+514th Air Mobility Wing, JB McGuire-Dix-Lakehurst, New Jersey
+624th Regional Support Group, JB Pearl Harbor-Hickam, Hawaii
+911th Airlift Wing, Pittsburgh International Airport, Pennsylvania
+914th Air Refueling Wing, Niagara Falls Air Reserve Station, New York
+916th Air Refueling Wing, Seymour-Johnson AFB, North Carolina
+927th Air Refueling Wing, MacDill AFB, Florida
+931st Air Refueling Wing, McConnell AFB, Kansas
+940th Air Refueling Wing, Beale AFB, California
+22nd Air Force, Dobbins Air Reserve Base, Georgia
+94th Airlift Wing, Dobbins ARB, Georgia
+302nd Airlift Wing, Peterson AFB, Colorado
+340th Flying Training Group, Randolph AFB, Texas
+403rd Wing, Keesler AFB, Mississippi
+413th Flight Test Group, Robins AFB, Georgia
+908th Airlift Wing, Maxwell AFB, Alabama
+910th Airlift Wing, Youngstown ARS, Ohio
+913th Airlift Group, Little Rock Air Force Base, Arkansas
+932nd Airlift Wing, Scott AFB, Illinois
+934th Airlift Wing, Minneapolis St Paul ARS, Minnesota
+953rd Reserve Support Squadron, Naval Station Norfolk, Virginia
+10th Air Force, NAS JRB Fort Worth, Texas
+301st Fighter Wing, NAS Fort Worth JRB, Texas
+307th Bomb Wing, Barksdale AFB, Louisiana
+310th Space Wing, Schriever AFB, Colorado
+419th Fighter Wing, Hill AFB, Utah
+442nd Fighter Wing, Whiteman AFB, Missouri
+477th Fighter Group, JB Elmendorf-Richardson, Alaska
+482nd Fighter Wing, Homestead ARB, Florida   489th Bomb Group, Dyess AFB, Texas
+513th Air Control Group, Tinker AFB, Oklahoma
+655th ISRW, Wright-Patterson AFB, Ohio
+919th Special Operations Wing, Duke Field, Florida
+920th Rescue Wing, Patrick AFB, Florida
+926th Wing, Nellis AFB, Nevada
+940th Wing, Beale AFB, California
+943rd Rescue Group, Davis-Monthan AFB, Arizona
+944th Fighter Wing, Luke AFB, Arizona
+960th Cyberspace Wing, JB San Antonio-Lackland, Texas
+
+
+
+WESTOVER AIR RESERVE BASE, C5
+NIAGARA FALLS AIR RESERVE STATION
+JOINT BASE MCGUIRE-DIX-LAKEHURST
+DOVER AIR FORCE BASE
+YOUNGSTOWN AIR RESERVE STATION
+PITTSBURGH IAP AIR RESERVE STATION
+JOINT BASE ANDREWS
+JOINT BASE LANGLEY-EUSTIS
+WRIGHT-PATTERSON AIR FORCE BASE
+SEYMOUR JOHNSON AIR FORCE BASE
+GRISSOM AIR RESERVE BASE
+POPE AIR FORCE BASE
+JOINT BASE CHARLESTON
+DOBBINS AIR RESERVE BASE
+SCOTT AIR FORCE BASE
+HQ AFRC AT ROBINS AIR FORCE BASE
+MINNEAPOLIS IAP AIR RESERVE STATION
+MOODY AIR FORCE BASE
+MAXWELL AIR FORCE BASE
+COLUMBUS AIR FORCE BASE
+WHITEMAN AIR FORCE BASE
+OFFUTT AIR FORCE BASE
+EGLIN AIR FORCE BASE (DUKE FIELD)
+LITTLE ROCK AIR FORCE BASE
+TYNDALL AIR FORCE BASE
+PATRICK AIR FORCE BASE
+HURLBURT FIELD
+MACDILL AIR FORCE BASE
+KEESLER AIR FORCE BASE
+MCCONNELL AIR FORCE BASE
+BARKSDALE AIR FORCE BASE
+HOMESTEAD AIR RESERVE BASE
+VANCE AIR FORCE BASE
+TINKER AIR FORCE BASE
+NAS JRB FORT WORTH
+SHEPPARD AIR FORCE BASE
+BUCKLEY AIR FORCE BASE
+SCHRIEVER AIR FORCE BASE
+PETERSON AIR FORCE BASE
+JOINT BASE SAN ANTONIO - RANDOLPH
+JOINT BASE SAN ANTONIO - LACKLAND
+LAUGHLIN AIR FORCE BASE
+HOLLOMAN AIR FORCE BASE
+HILL AIR FORCE BASE
+DAVIS-MONTHAN AIR FORCE BASE
+LUKE AIR FORCE BASE
+NELLIS AIR FORCE BASE
+JOINT BASE LEWIS-MCCHORD
+PORTLAND AIR NATIONAL GUARD STATION
+MARCH AIR RESERVE BASE
+BEALE AIR FORCE BASE
+TRAVIS AIR FORCE BASE
+VANDENBERG AIR FORCE BASE
+JOINT BASE ELMENDORF-RICHARDSON
+
+
+
+
+LEGACY
+Alaska
+American
+Delta
+Hawaiian
+United
+
+MAJOR
+Allegiant
+Avelo
+Breeze
+Frontier
+JetBlue
+Southwest
+Spirit
+Sun Country
+
+REGIONAL
+'Air Wisconsin,' 'CommutAir', 'Endeavor', 'Envoy', 'GoJet', 'Horizon', 'Mesa', 'Piedmont', 'PSA', 'Republic', 'Silver', 'SkyWest'
+
+
+
+CARGO
+'ABX', 'Aloha', 'Ameriflight', 'Atlas', 'Empire', 'Everts', 'FedEx', 'National', 'Northern', 'UPS'
+
+
+EMS
+'Air Evac Lifeteam', 'Air Methods', 'Med-Trans', 'Metro Aviation', 'PHI Air Medical', 'SevenBar'
+
+
+Military
+'US Air Force Reserve', 'US Air National Guard', 'US Army Reserve', 'US Army National Guard'
+
+
+PILOT TRAINING
+Infinity Flight
+Pray Aviation
+
